@@ -1,0 +1,154 @@
+body{
+    background-image:url(../img/pngverde-20.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.contenedor {
+    width: 100%;
+    height: 650px;
+}
+
+.contenedor-logo {
+    width: 95%;
+    height: 125px;
+    margin-top: 20px;
+    margin-left: 25px;
+    display: flex;
+}
+
+.logo {
+    width: 20%;
+    height: 90px;
+    margin-left: 27px;
+    background-image: url(../img/Logo-10.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.logo-2 {
+    width: 10%;
+    height: 118px;
+    margin-left: 1000px;
+    background-image: url(../img/diseñopropues-19.png);
+    background-repeat: no-repeat;
+    background-size: 83%;
+}
+
+.titulo{
+    width: 50%;
+    height: 78px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Work Sans',sans-serif;
+}
+
+.contenedor-btn{
+    width: 80%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.btn-1 {
+    width: 15%;
+    height: 210px;
+    margin-left:190px;
+    margin-top: 20px;
+    background-image: url(../img/u11.png);
+    background-repeat: no-repeat;
+    background-size: 88%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-1:hover{
+    transform: scale(1.2);
+}
+
+.titulo-btn1{
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
+.btn-2 {
+    width: 15%;
+    height: 170px;
+    margin-left: 120px;
+    margin-top: 20px;
+    background-image: url(../img/u8.png);
+    background-repeat: no-repeat;
+    background-size: 88%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.titulo-btn2{
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-2:hover{
+    transform: scale(1.2);
+}
+
+.btn-3 {
+    width: 15%;
+    height: 170px;
+    margin-left: 100px;
+    margin-top: 20px;
+    background-image: url(../img/u5.png);
+    background-repeat: no-repeat;
+    background-size: 88%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.titulo-btn3 {
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-3:hover{
+    transform: scale(1.2);
+}
+
+.footer{
+    width: 20%;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 48px;
+    background-image: url(../img/logo\ SENA\ SENNOVA.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+}

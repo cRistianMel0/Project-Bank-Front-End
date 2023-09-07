@@ -1,0 +1,167 @@
+body{
+    background-image: url(../img/fondovectornegro-20.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.contenedor {
+    width: 100%;
+    height: 650px;
+}
+
+.contenedor-logo {
+    width: 95%;
+    height: 125px;
+    margin-top: 20px;
+    margin-left: 25px;
+    display: flex;
+}
+
+.logo {
+    width: 20%;
+    height: 90px;
+    margin-left: 27px;
+    background-image: url(../img/Logo-10.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.logo-2 {
+    width: 10%;
+    height: 118px;
+    margin-left: 1000px;
+    background-image: url(../img/diseñopropues-19.png);
+    background-repeat: no-repeat;
+    background-size: 83%;
+}
+
+.titulo{
+    width: 39%;
+    height: 47px;
+    color: #39A900;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 46px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.cont-form{
+    border: 2px solid black;
+    width: 60%;
+    height: 385px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    box-shadow: 15px 17px 20px;
+
+}
+
+
+.input input {
+    margin-top: 20px;
+    width: 23%;
+    border: 2px solid black;
+    padding: 1px 16px;
+    outline: none;
+    border-radius: 8px;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.input select {
+    margin-top: 15px;
+    width: 40%;
+    padding: 3px 16px;
+    outline: none;
+    border-radius: 8px;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 58px;
+
+}
+
+.contenedor-btn {
+    width: 15%;
+    height: 55px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: -70px;
+}
+
+.btn{
+    width: 77%;
+    height: 45px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #012030;
+    margin-top: 5px;
+    margin-left: 40px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 10px 16px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #39A900;
+}
+
+.cont-form1{
+    border:2px solid black;
+    border-radius: 15px;
+    width: 45%;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    background-color: #FFFFFF;
+    box-shadow: 15px 17px 20px;
+}
+.btn1{
+    width: 150%;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #012030;
+    margin-top: 120px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 10px 16px;
+}
+
+.btn1:hover{
+    cursor: pointer;
+        color: #FFFFFF;
+        background-color: #39A900;
+}
+
+
+.footer{
+    width: 20%;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:120px;
+    background-image: url(../img/logo\ SENA\ SENNOVA.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+.footerr{
+    width: 20%;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 195px;
+    background-image: url(../img/logo\ SENA\ SENNOVA.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+
+

@@ -1,0 +1,302 @@
+body{
+    background-image: url(../img/fondodeco-11.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.contenedor {
+    width: 100%;
+    height: 650px;
+}
+.contenedor-logo {
+    width: 95%;
+    height: 125px;
+    margin-top: 120px;
+    margin-left: 25px;
+    display: flex;
+}
+
+.logo {
+    width: 20%;
+    height: 90px;
+    margin-left: 27px;
+    background-image: url(../img/Logo-10.png);
+    background-repeat: no-repeat;
+    background-size: 102%;
+}
+
+.titulo{
+    width: 40%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 60px;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+.titulo-btns{
+    width: 40;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 45px;
+}
+
+.content-btns{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -45px;
+    width: 100%;
+    height: 240px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.btn-1{
+    width: 13%;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-image: url(../img/Subdirector\(a\).png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-1:hover {
+    transform: scale(1.2);
+}
+
+.titulo-btn1 {
+    width: 86%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-2 {
+    width: 13%;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-image: url(../img/coordinadores.png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-2:hover {
+    transform: scale(1.2);
+}
+
+.titulo-btn2 {
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-3 {
+    width: 13%;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-image: url(../img/dinamizador\ SENNOVA.png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-3:hover {
+    transform: scale(1.2);
+}
+
+.titulo-btn3 {
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-4 {
+    width: 13%;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-image: url(../img/investigador\ SENNOVA.png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-4:hover {
+    transform: scale(1.2);
+}
+
+.titulo-btn4 {
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-5 {
+    width: 13%;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-image: url(../img/coordinadores.png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-5:hover {
+    transform: scale(1.2);
+}
+
+.titulo-btn5 {
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-6 {
+    width: 13%;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-image: url(../img/Aprendices.png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-6:hover {
+    transform: scale(1.2);
+}
+
+.titulo-btn6 {
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-7 {
+    width: 13%;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-image: url(../img/Aliados\ estrategicos.png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-7:hover{
+    transform: scale(1.2);
+}
+
+.titulo-btn7 {
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-8 {
+    width: 13%;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-image: url(../img/mesa\ de\ apoyo.png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.btn-8:hover {
+    transform: scale(1.2);
+}
+
+.titulo-btn8 {
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.footer {
+    width: 20%;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 48px;
+    background-image: url(../img/logo\ SENA\ SENNOVA.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
